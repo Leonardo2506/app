@@ -16,4 +16,6 @@ Nota: Recordar instalar nodemon de forma global
 npm install -g nodemon 
 ---
 
-3. 
+3. Instalar 
+
+4. 
